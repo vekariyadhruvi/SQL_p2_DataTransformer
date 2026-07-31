@@ -6,10 +6,6 @@ This project is a Corporate Database Management System built using SQL.
 It demonstrates relational tables, data insertion, and queries like
 joins and subqueries.
 
-## Database Name
-
-pr_corporate_das
-
 ## Tables Included
 
 ### 1. Customers
@@ -64,10 +60,10 @@ pr_corporate_das
 -   SQL query practice
 -   Exam and viva preparation
 
+## Video Explanation
+
+
+
 ## Author
 
-Your Name
-
-## Notes
-
-MySQL does not support FULL OUTER JOIN directly, so UNION is used.
+Dhruvi Vekariya 
